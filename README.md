@@ -378,3 +378,4 @@ This work is licensed under Attribution-NonCommercial 4.0 International.
 The ROM is not provided and the author do not endorse game piracy: check your local regulation concerning retro games emulation.
 
 All graphical resources come from the extraordinarily rich Tamagotchi [fandom](https://tamagotchi.fandom.com/wiki/Tamagotchi_(1996_Pet)).
+#
